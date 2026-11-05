@@ -1,7 +1,9 @@
 {
   "software": "Softechpro Trucks v2.0.4",
   "repository": "truck-adblue-scr-nox-delete",
+  "title": "Truck Euro 5 / Euro 6 AdBlue, SCR, DEF & NOx Calibration Software",
   "official_url": "https://www.softechpro-solutions.com/trucks/adblue-scr-delete-truck-software.html",
-  "matched_ecus": 452,
-  "coverage": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/truck-adblue-scr-nox-delete/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
